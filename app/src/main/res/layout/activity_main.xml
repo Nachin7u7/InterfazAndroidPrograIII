@@ -36,7 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="0"
-            app:srcCompat="@drawable/buttomMore" />
+            app:srcCompat="@drawable/buttom_more" />
         >
     </LinearLayout>
 
@@ -127,7 +127,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="0"
-            app:srcCompat="@drawable/comentsButtom" />
+            app:srcCompat="@drawable/coments_buttom" />
     </LinearLayout>
 
     <ImageView
@@ -135,7 +135,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0"
-        app:srcCompat="@drawable/addComent" />
+        app:srcCompat="@drawable/add_coment" />
 
     <LinearLayout
         android:layout_width="match_parent"
